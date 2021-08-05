@@ -1,5 +1,5 @@
 # Space-Sandbox-Public
-<b>This repository is intended as a showcase of my skills. Please do not duplicate or modify this code.</b>
+<b>Please do not duplicate or modify this code.</b>
 
  I started this project in the summer of 2018, the summer before my senior year of high school. I released the first version of Space Sandbox to the Google Play Store in November of 2018. Closing in on 500,000 downloads, the game has been very successful. You can view it in the store <a href="https://play.google.com/store/apps/details?id=com.tea.free" target="_blank">here</a>. This repository has just the core Java parts of the project to prevent API key leaks or asset theft.
 
